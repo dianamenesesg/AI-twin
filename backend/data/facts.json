@@ -1,0 +1,12 @@
+{
+  "full_name": "Diana Meneses Gustin",
+  "name": "Diana",
+  "current_role": "place holder",
+  "location": "Saint Ouen Sur Seine",
+  "email": "fake_email@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/diana-meneses-gustin/",
+  "skills": [
+    "Programming & Data Analysis: Python, SQL, NoSQL, NumPy, Pandas, Polars, Scikit-Learn, Jupyter; Data Visualization & Reporting: Plotly, Streamlit, Quarto; Machine Learning Operations: MLflow, Comet, Docker, SageMaker, Airflow; Cloud Infrastructure: AWS, Infrastructure as Code; Version Control & CI/CD: Git, GitLab CI/CD; Project Management & Collaboration: Agile methodologies, cross-functional team leadership"
+  ],
+  "years_experience": 5
+}
